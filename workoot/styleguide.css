@@ -1,0 +1,31 @@
+:root {
+  --black: rgba(0, 0, 0, 1);
+  --body-font-family: "Inter-Regular", Helvetica;
+  --body-font-size: 16px;
+  --body-font-style: normal;
+  --body-font-weight: 400;
+  --body-letter-spacing: 0px;
+  --body-line-height: normal;
+  --grey: rgba(67, 67, 67, 1);
+  --heading-2-font-family: "SairaCondensed-Bold", Helvetica;
+  --heading-2-font-size: 50px;
+  --heading-2-font-style: normal;
+  --heading-2-font-weight: 700;
+  --heading-2-letter-spacing: 0px;
+  --heading-2-line-height: normal;
+  --home-font-family: "SairaCondensed-Bold", Helvetica;
+  --home-font-size: 30px;
+  --home-font-style: normal;
+  --home-font-weight: 700;
+  --home-letter-spacing: 0px;
+  --home-line-height: normal;
+  --icon-font-family: "SairaCondensed-Bold", Helvetica;
+  --icon-font-size: 30px;
+  --icon-font-style: normal;
+  --icon-font-weight: 700;
+  --icon-letter-spacing: 0px;
+  --icon-line-height: normal;
+  --red: rgba(197, 84, 84, 1);
+  --soft-grey: rgba(232, 231, 232, 1);
+  --white: rgba(255, 255, 255, 1);
+}
